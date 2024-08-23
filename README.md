@@ -21,6 +21,6 @@ My name is Mustafa.<br>I am .Net Core Back-end Developer. <br>I share my project
 ![](https://github-contributor-stats.vercel.app/api?username=Mustafa-Karadeniz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mustafa-Karadeniz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
